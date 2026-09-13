@@ -8,7 +8,7 @@ with solid frontend fundamentals (JS/TS, HTML/CSS).
 
 | 🖥️ Backend | 🌐 Frontend | 🗄️ Databases | 🧰 Tools |
 |---|---|---|---|
-| C# · ASP.NET Core · Django · Node.js / Express | JavaScript · TypeScript · HTML · CSS | SQL Server · MySQL | Git · REST APIs |
+| C# · ASP.NET Core · Django · Node.js/Express · Python | TypeScript · React · HTML/CSS | SQL Server · MySQL · SQLite | Git · Docker · GitHub Actions · Linux |
 
 ## 📌 Projects
 
