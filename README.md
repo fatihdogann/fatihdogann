@@ -18,7 +18,7 @@ with solid frontend fundamentals (JS/TS, HTML/CSS).
 | [CourseApp](https://github.com/fatihdogann/CourseApp) | Online learning platform with instructor panel | Django |
 | [DersKayit](https://github.com/fatihdogann/DersKayit) | Course registration system | ASP.NET Core MVC |
 | [contact-app](https://github.com/fatihdogann/contact-app) | Contact management app with CRUD & search | Node.js · Express · MySQL |
-| [zaman-para-planlayici](https://github.com/fatihdogann/zaman-para-planlayici) | Installment debt vs. capital growth planner | JavaScript |
+| [zaman-para-planlayici](https://github.com/fatihdogann/zaman-para-planlayici) | Installment debt vs. capital growth planner | React |
 | [trading-models](https://github.com/fatihdogann/trading-models) | ICT/SMC trading research & backtesting engine | Python |
 
 ## 🔒 Interests
