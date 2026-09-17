@@ -1,30 +1,28 @@
 # Hi, I'm Mehmet Fatih Doğan 👋
 
-Backend developer focused on **ASP.NET Core** and **Django**. I build web
-applications end to end — APIs, business logic, and the database behind them —
-with solid frontend fundamentals (JS/TS, HTML/CSS).
+Backend developer focused on building **web applications, APIs, and developer tools**.
+
+I mainly work with **ASP.NET Core, Django, Node.js, and TypeScript**, covering the full stack from database design and backend architecture to frontend implementation and deployment.
 
 ## 🧰 Tech Stack
 
-| 🖥️ Backend | 🌐 Frontend | 🗄️ Databases | 🧰 Tools |
+| Backend | Frontend | Databases | DevOps & Tools |
 |---|---|---|---|
-| C# · ASP.NET Core · Django · Node.js/Express · Python | TypeScript · React · HTML/CSS | SQL Server · MySQL · SQLite | Git · Docker · GitHub Actions · Linux |
+| C# · ASP.NET Core | TypeScript · React | SQL Server | Git · GitHub |
+| Python · Django | JavaScript · HTML/CSS | MySQL | Docker · Linux |
+| Node.js · Express |  | SQLite | GitHub Actions |
 
-## 📌 Projects
+## 🎯 Focus
 
-| Project | What it does | Stack |
-|---|---|---|
-| [PenaltyTracker](https://github.com/fatihdogann/PenaltyTracker) | Traffic-fine lookup & payment simulation via TCKN | C# |
-| [CourseApp](https://github.com/fatihdogann/CourseApp) | Online learning platform with instructor panel | Django |
-| [DersKayit](https://github.com/fatihdogann/DersKayit) | Course registration system | ASP.NET Core MVC |
-| [contact-app](https://github.com/fatihdogann/contact-app) | Contact management app with CRUD & search | Node.js · Express · MySQL |
-| [zaman-para-planlayici](https://github.com/fatihdogann/zaman-para-planlayici) | Installment debt vs. capital growth planner | React |
-| [trading-models](https://github.com/fatihdogann/trading-models) | ICT/SMC trading research & backtesting engine | Python |
+- Backend architecture & REST APIs
+- Full-stack web applications
+- Automation & developer tooling
+- Financial & trading software
+- Authentication & secure application design
 
-## 🔒 Interests
+## 📌 Featured Projects
 
-Cybersecurity and secure backend design — authentication, validation, and the
-parts of a web app that need to be right, not just working.
+Some of my current and representative projects are pinned below ↓
 
 ## 📫 Contact
 
