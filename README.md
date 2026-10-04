@@ -4,19 +4,22 @@ Backend developer building web applications, APIs and developer tools. I work ac
 
 ## 🧰 Tech Stack
 
-| Backend | Frontend | Databases | DevOps & Tools |
-|---|---|---|---|
-| C# · ASP.NET Core | TypeScript · React | SQL Server | Git · GitHub |
-| Python · Django | JavaScript · HTML/CSS | MySQL | Docker · Linux |
-| Node.js · Express |  | SQLite | GitHub Actions |
+| Area | Technologies |
+|---|---|
+| Backend | ASP.NET Core MVC · C# · Java · Node.js · Express · NestJS · Python · Django |
+| Mobile | Flutter · Dart · Capacitor · Kotlin · Android · iOS |
+| Database | MS SQL · PostgreSQL · MySQL · SQLite |
+| API & Security | REST · Swagger · Postman · JWT · Identity · RBAC |
+| Infrastructure | Docker · Nginx · GitHub Actions |
+| Frontend | HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind |
 
 ## 🎯 Focus
 
-- Backend architecture & REST APIs
-- Full-stack web applications
-- Automation & developer tooling
-- Financial & trading software
-- Authentication & secure application design
+- Backend architecture and REST APIs
+- Database design, migrations and access control
+- Offline-first web and mobile applications
+- Automation and developer tooling
+- End-to-end product development and deployment
 
 ## 🚀 Live Products
 
