@@ -27,9 +27,10 @@ Things I've built and shipped — you can use them right now:
 
 | Product | What it is |
 |---|---|
-| 📓 [**Defter**](https://defter.mehmetfatihdogan.com.tr) | Trader Defteri & Defter Terminal — a trading journal that records your trades and a terminal that brings the market to a single screen. |
-| 📖 [**Readflow**](https://readflow.mehmetfatihdogan.com.tr) | Local-first reading workspace: archive, highlight and summarize links, texts and PDFs with your own coding-agent CLI. [Open source](https://github.com/fatihdogann/readflow) |
 | ✅ [**TaskWork**](https://taskwork.mehmetfatihdogan.com.tr) | Offline-first planner for tasks, calendars, habits and daily reviews. Available on web, iOS and Android, with optional account sync. [App Store](https://apps.apple.com/app/id6817678838) · [Google Play](https://play.google.com/store/apps/details?id=com.mehmetfatihdogan.taskwork) |
+| ✏️ [**Gridpen**](https://gridpen.mehmetfatihdogan.com.tr) | Visual workspace for connected tables, charts, pages and diagrams. Work offline, calculate and visualize your data, and continue across devices with cloud sync. |
+| 📖 [**Readflow**](https://readflow.mehmetfatihdogan.com.tr) | Local-first reading workspace: archive, highlight and summarize links, texts and PDFs with your own coding-agent CLI. [Open source](https://github.com/fatihdogann/readflow) |
+| 📓 [**Defter**](https://defter.mehmetfatihdogan.com.tr) | Trader Defteri & Defter Terminal — a trading journal that records your trades and a terminal that brings the market to a single screen. |
 | 🎓 [**Kalite**](https://kalite.mehmetfatihdogan.com.tr) | Accreditation evidence workspace for MÜDEK and FEDEK, with auditable calculations and program outcome reports. |
 
 ## 📫 Contact
