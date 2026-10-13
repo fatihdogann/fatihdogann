@@ -33,6 +33,10 @@ Things I've built and shipped — you can use them right now:
 | 📓 [**Defter**](https://defter.mehmetfatihdogan.com.tr) | Trader Defteri & Defter Terminal — a trading journal that records your trades and a terminal that brings the market to a single screen. |
 | 🎓 [**Kalite**](https://kalite.mehmetfatihdogan.com.tr) | Accreditation evidence workspace for MÜDEK and FEDEK, with auditable calculations and program outcome reports. |
 
+Explore the [live product catalog](https://github.com/users/fatihdogann/projects/2) or the technical showcases:
+
+[Trader Defteri & Defter Terminal](https://github.com/fatihdogann/trader-defteri-showcase) · [TaskWork](https://github.com/fatihdogann/taskwork-showcase) · [Gridpen](https://github.com/fatihdogann/gridpen-showcase) · [Kalite](https://github.com/fatihdogann/kalite-showcase) · [Readflow source & architecture](https://github.com/fatihdogann/readflow)
+
 ## 📫 Contact
 
 🌐 [mehmetfatihdogan.com.tr](https://mehmetfatihdogan.com.tr)
