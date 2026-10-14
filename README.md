@@ -23,19 +23,17 @@ Backend developer building web applications, APIs and developer tools. I work ac
 
 ## 🚀 Live Products
 
-Things I've built and shipped — you can use them right now:
+Products I've built and shipped, with live links and technical overviews:
 
-| Product | What it is |
-|---|---|
-| ✅ [**TaskWork**](https://taskwork.mehmetfatihdogan.com.tr) | Offline-first planner for tasks, calendars, habits and daily reviews. Available on web, iOS and Android, with optional account sync. [App Store](https://apps.apple.com/app/id6817678838) · [Google Play](https://play.google.com/store/apps/details?id=com.mehmetfatihdogan.taskwork) |
-| ✏️ [**Gridpen**](https://gridpen.mehmetfatihdogan.com.tr) | Visual workspace for connected tables, charts, pages and diagrams. Work offline, calculate and visualize your data, and continue across devices with cloud sync. |
-| 📖 [**Readflow**](https://readflow.mehmetfatihdogan.com.tr) | Local-first reading workspace: archive, highlight and summarize links, texts and PDFs with your own coding-agent CLI. [Open source](https://github.com/fatihdogann/readflow) |
-| 📓 [**Defter**](https://defter.mehmetfatihdogan.com.tr) | Trader Defteri & Defter Terminal — a trading journal that records your trades and a terminal that brings the market to a single screen. |
-| 🎓 [**Kalite**](https://kalite.mehmetfatihdogan.com.tr) | Accreditation evidence workspace for MÜDEK and FEDEK, with auditable calculations and program outcome reports. |
+| Product | What it is | Code & architecture |
+|---|---|---|
+| ✅ [**TaskWork**](https://taskwork.mehmetfatihdogan.com.tr) | Offline-first planner for tasks, calendars, habits and daily reviews. Web, iOS and Android, with optional account sync. [App Store](https://apps.apple.com/app/id6817678838) · [Google Play](https://play.google.com/store/apps/details?id=com.mehmetfatihdogan.taskwork) | [Technical showcase](https://github.com/fatihdogann/taskwork-showcase) |
+| ✏️ [**Gridpen**](https://gridpen.mehmetfatihdogan.com.tr) | Visual workspace for connected tables, charts, pages and diagrams. Offline editing, calculation and visualization, with optional cloud sync. | [Technical showcase](https://github.com/fatihdogann/gridpen-showcase) |
+| 📖 [**Readflow**](https://readflow.mehmetfatihdogan.com.tr) | Local-first reading workspace for links, texts and PDFs. Install locally to archive, highlight and summarize with your own coding-agent CLI. | [Open source & architecture](https://github.com/fatihdogann/readflow) |
+| 📓 [**Trader Defteri & Defter Terminal**](https://defter.mehmetfatihdogan.com.tr) | Trade journal with performance and discipline tracking; a separate terminal for charts, watchlists and sourced news. Account required for the live apps. | [Technical showcase](https://github.com/fatihdogann/trader-defteri-showcase) |
+| 🎓 [**Kalite**](https://kalite.mehmetfatihdogan.com.tr) | MÜDEK/FEDEK accreditation evidence platform: question-level assessment, outcome matrices, multi-year trends and auditable reports. Authorized access to the underlying app. | [Technical showcase](https://github.com/fatihdogann/kalite-showcase) |
 
-Explore the [live product catalog](https://github.com/users/fatihdogann/projects/2) or the technical showcases:
-
-[Trader Defteri & Defter Terminal](https://github.com/fatihdogann/trader-defteri-showcase) · [TaskWork](https://github.com/fatihdogann/taskwork-showcase) · [Gridpen](https://github.com/fatihdogann/gridpen-showcase) · [Kalite](https://github.com/fatihdogann/kalite-showcase) · [Readflow source & architecture](https://github.com/fatihdogann/readflow)
+Browse all five products in the [live product catalog](https://github.com/users/fatihdogann/projects/2).
 
 ## 📫 Contact
 
