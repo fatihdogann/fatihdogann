@@ -37,9 +37,14 @@ Browse the [product catalog](https://github.com/users/fatihdogann/projects/2).
 
 ## 🛠 Open-Source Developer Tools
 
-| Tool | What it does | Demo |
+| Tool | What it does | Preview or package |
 |---|---|---|
 | [**RestoreLab**](https://github.com/fatihdogann/restorelab) | Rehearse PostgreSQL restores in Docker, run application checks and track the newest passing backup. Runs on your machine or CI. | [Sample recovery report](https://mehmetfatihdogan.com.tr/assets/demos/restorelab-en) |
+| [**EMA Ses**](https://github.com/fatihdogann/ema-ses) | Turn Turkish text into speech locally and export the result as WAV. | [Screenshot](https://github.com/fatihdogann/ema-ses/blob/main/docs/ekran.png) |
+| [**turkce-utils**](https://github.com/fatihdogann/turkce-utils) | Turkish text utilities for TypeScript and the command line. | [npm package](https://www.npmjs.com/package/turkce-utils) |
+| [**turkce-tarih**](https://github.com/fatihdogann/turkce-tarih) | Parse Turkish date and time expressions in TypeScript or from the command line. | [npm package](https://www.npmjs.com/package/turkce-tarih) |
+
+See the [earlier projects](https://github.com/users/fatihdogann/projects/2/views/3) for the Time–Money Planner and my first web and desktop apps.
 
 ## 📫 Contact
 
