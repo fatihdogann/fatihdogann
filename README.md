@@ -33,7 +33,13 @@ Products I've built and shipped, with live links and technical overviews:
 | 📓 [**Trader Defteri & Defter Terminal**](https://defter.mehmetfatihdogan.com.tr) | Trade journal with performance and discipline tracking; a separate terminal for charts, watchlists and sourced news. Account required for the live apps. | [Technical showcase](https://github.com/fatihdogann/trader-defteri-showcase) |
 | 🎓 [**Kalite**](https://kalite.mehmetfatihdogan.com.tr) | MÜDEK/FEDEK accreditation evidence platform: question-level assessment, outcome matrices, multi-year trends and auditable reports. Authorized access to the underlying app. | [Technical showcase](https://github.com/fatihdogann/kalite-showcase) |
 
-Browse all five products in the [live product catalog](https://github.com/users/fatihdogann/projects/2).
+Browse the [product catalog](https://github.com/users/fatihdogann/projects/2).
+
+## 🛠 Open-Source Developer Tools
+
+| Tool | What it does | Demo |
+|---|---|---|
+| [**RestoreLab**](https://github.com/fatihdogann/restorelab) | Rehearse PostgreSQL restores in Docker, run application checks and track the newest passing backup. Runs on your machine or CI. | [Sample recovery report](https://mehmetfatihdogan.com.tr/assets/demos/restorelab-en) |
 
 ## 📫 Contact
 
