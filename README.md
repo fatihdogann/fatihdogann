@@ -1,8 +1,8 @@
 # Mehmet Fatih Doğan
 
-I build and ship web and mobile applications, with a focus on APIs, databases and access control. I also publish the smaller tools I use to solve specific problems.
+I build web and mobile products, from designing APIs and data models to deploying them. My work includes offline sync, access control and tools that check whether backups can bring an application back.
 
-[Portfolio](https://mehmetfatihdogan.com.tr/en/projects) · [GitHub project catalog](https://github.com/users/fatihdogann/projects/2) · [Contact](https://mehmetfatihdogan.com.tr/iletisim)
+[Portfolio](https://mehmetfatihdogan.com.tr/en/projects) · [GitHub project catalog](https://github.com/users/fatihdogann/projects/2) · [Contact](https://mehmetfatihdogan.com.tr/en/contact)
 
 ## Live products
 
@@ -14,11 +14,11 @@ I build and ship web and mobile applications, with a focus on APIs, databases an
 
 ## Open-source tools
 
-- **[RestoreLab](https://github.com/fatihdogann/restorelab)** — Restore a PostgreSQL backup in Docker and check whether the application still behaves as expected. [See the access check](https://mehmetfatihdogan.com.tr/assets/demos/restorelab-en)
+- **[RestoreLab](https://github.com/fatihdogann/restorelab)** — Test PostgreSQL restores in Docker. The sample compares two successful restores and shows why only one passes the access check. [Sample report](https://mehmetfatihdogan.com.tr/assets/demos/restorelab-en)
 - **[EMA Ses](https://github.com/fatihdogann/ema-ses)** — Turn Turkish text into speech and save the result as WAV on your Mac. [Screenshot](https://github.com/fatihdogann/ema-ses/blob/main/docs/ekran.png)
 - **[turkce-utils](https://github.com/fatihdogann/turkce-utils)** — Correct Turkish casing, sorting, slugs and readability scores. [npm](https://www.npmjs.com/package/turkce-utils)
 - **[turkce-tarih](https://github.com/fatihdogann/turkce-tarih)** — Parse Turkish dates such as “yarın akşam 7’de” in TypeScript or from the terminal. [npm](https://www.npmjs.com/package/turkce-tarih)
 
-The [earlier projects](https://github.com/users/fatihdogann/projects/2/views/3) include the [Time–Money Planner](https://github.com/fatihdogann/zaman-para-planlayici) and my first web and desktop apps.
+The [earlier projects](https://github.com/users/fatihdogann/projects/2/views/3) include the [Time–Money Planner](https://github.com/fatihdogann/zaman-para-planlayici) and my first web and desktop apps, including [Contact App screenshots](https://github.com/fatihdogann/contact-app#ekran-g%C3%B6r%C3%BCnt%C3%BCleri).
 
 I work mainly with **Node.js/TypeScript, Python/Django and C#/ASP.NET Core**, with PostgreSQL or SQLite for persistence.
